@@ -1,7 +1,7 @@
 /*
 CREATED BY: YC Lim
  */
-public class myStaticMethod {
+public class MyStaticMethod {
     // Static Methods - a named group of statements
     // Called by main
     public static void main(String[] args) {

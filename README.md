@@ -21,3 +21,8 @@ public static void main (String[] args){
 name();
 }
 ```
+
+
+3. [MyStaticMethod.java](https://github.com/yclim95/java-basic-example/blob/master/img/myStaticMethod.PNG)
+   
+ ![MyStaticMethod.java](https://github.com/yclim95/java-basic-example/blob/master/img/myStaticMethod.PNG)

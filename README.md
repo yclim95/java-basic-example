@@ -33,11 +33,11 @@ name();
 ![StringPrint.java](https://github.com/yclim95/java-basic-example/blob/master/img/StringPrint.PNG)
 
 
-5. [Loop.java](https://github.com/yclim95/java-basic-example/blob/master/img/StringPrint.PNG)
+5. [Condition.java](https://github.com/yclim95/java-basic-example/blob/master/img/condition.PNG)
   
-![Loop.java](https://github.com/yclim95/java-basic-example/blob/master/img/StringPrint.PNG)
+![Condition.java](https://github.com/yclim95/java-basic-example/blob/master/img/condition.PNG)
 
 
-5. [StringPrint.java](https://github.com/yclim95/java-basic-example/blob/master/img/StringPrint.PNG)
+6. [Loop.java](https://github.com/yclim95/java-basic-example/blob/master/img/loop.PNG)
   
-![StringPrint.java](https://github.com/yclim95/java-basic-example/blob/master/img/StringPrint.PNG)
+![Loop.java](https://github.com/yclim95/java-basic-example/blob/master/img/loop.PNG)

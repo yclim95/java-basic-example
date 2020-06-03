@@ -1,5 +1,5 @@
 /*
-CREATED BY: YC Lim
+ * CREATED BY: YC Lim
  */
 public class MyStaticMethod {
     // Static Methods - a named group of statements

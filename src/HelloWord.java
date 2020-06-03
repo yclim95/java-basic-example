@@ -1,5 +1,5 @@
 /*
-CREATED BY: YC Lim
+ * CREATED BY: YC Lim
  */
 public class HelloWord {
     public static void main(String[] args) {

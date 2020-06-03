@@ -26,3 +26,8 @@ name();
 3. [MyStaticMethod.java](https://github.com/yclim95/java-basic-example/blob/master/img/myStaticMethod.PNG)
    
  ![MyStaticMethod.java](https://github.com/yclim95/java-basic-example/blob/master/img/myStaticMethod.PNG)
+ 
+ 
+ 3. [StringPrint.java](https://github.com/yclim95/java-basic-example/blob/master/img/myStaticMethod.PNG)
+    
+  ![StringPrint.java](https://github.com/yclim95/java-basic-example/blob/master/img/myStaticMethod.PNG)

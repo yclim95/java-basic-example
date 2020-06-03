@@ -1,10 +1,12 @@
+package com.basic;
+
 /*
  * CREATED BY: YC Lim
  */
 public class MyStaticMethod {
     // Static Methods - a named group of statements
     // Called by main
-    public static void main(String[] args) {
+    public static void main(StringPrint[] args) {
         myFirstMethod();
     }
 
